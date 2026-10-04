@@ -1,0 +1,10 @@
+"especificacao","n","p","granger_nvda_p","crise_ddr5","crise_ddr5_p","fevd12_nvda_em_ddr5","fevd12_nvda_em_ddr4","portmanteau_p"
+"Base mensal (jan24-fev26)",24,1,0.463,0.0951,0.004,3,18.3,0.364
+"Mensal sem dummy de crise",24,1,0.995,NA,NA,3.7,18.3,0.214
+"Mensal so regime de crise (jan25-fev26)",13,1,0.02,NA,NA,48.2,50.5,0.366
+"Mensal com p = 2",23,2,0.148,0.1054,0.014,4.4,2.8,0.416
+"Mensal com media (nao mediana)",24,1,0.626,0.0867,0.009,3.9,9.3,0.64
+"Segmentos: DDR5 Enterprise/IA e DDR5 Consumidor",24,1,0.234,0.0961,0.008,2.2,3,0.947
+"Base semanal (p = 2)",111,2,0.545,0.0175,0.006,1.7,4.2,0.332
+"Semanal so regime de crise",59,2,0.147,NA,NA,6.7,4.3,0.132
+"Semanal, NVDA defasada 4 semanas",108,2,0.743,0.0176,0.006,0.9,0.8,0.298
